@@ -1,0 +1,1297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tile",
+				"tilegrid"
+			],
+			[
+				"coo",
+				"idToCoords"
+			],
+			[
+				"anima",
+				"animationSet"
+			],
+			[
+				"OBJE",
+				"OBJECT_STATIC"
+			],
+			[
+				"coll",
+				"collisionSize"
+			],
+			[
+				"floo",
+				"floor3"
+			],
+			[
+				"collision",
+				"collisionSize"
+			],
+			[
+				"size",
+				"collisionSize"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"model",
+				"model_file"
+			],
+			[
+				"report",
+				"report_filters"
+			],
+			[
+				"upr",
+				"upr_model"
+			],
+			[
+				"base",
+				"base64_encode"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"email",
+				"email_content"
+			],
+			[
+				"start",
+				"start_ts"
+			],
+			[
+				"perio",
+				"period_options"
+			],
+			[
+				"cont",
+				"continue"
+			],
+			[
+				"post",
+				"post_val"
+			],
+			[
+				"table",
+				"table_row"
+			],
+			[
+				"uc",
+				"ucwords"
+			],
+			[
+				"app",
+				"app_model"
+			],
+			[
+				"filter",
+				"filter_cols"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"statu",
+				"status_id"
+			],
+			[
+				"date",
+				"date_filter"
+			],
+			[
+				"get_conf",
+				"get_config"
+			],
+			[
+				"repor",
+				"report_model"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"mysql",
+				"mysql_now"
+			],
+			[
+				"set_conf",
+				"set_config"
+			],
+			[
+				"as",
+				"as_child"
+			],
+			[
+				"repo",
+				"get_report"
+			],
+			[
+				"affiliate_te",
+				"affiliate_tier_id"
+			],
+			[
+				"STAT",
+				"status_id"
+			],
+			[
+				"affili",
+				"affiliate_tier_id"
+			],
+			[
+				"stat",
+				"status_id"
+			],
+			[
+				"source",
+				"source_alias"
+			],
+			[
+				"sourc",
+				"source_alias"
+			],
+			[
+				"is",
+				"is_child"
+			],
+			[
+				"Report",
+				"Report_model"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"def",
+				"default"
+			],
+			[
+				"select",
+				"selector"
+			],
+			[
+				"ent",
+				"end_datetime"
+			],
+			[
+				"start_",
+				"start_datetime"
+			],
+			[
+				"selec",
+				"selector"
+			],
+			[
+				"arrap",
+				"array_push"
+			],
+			[
+				"get_confi",
+				"get_config_key"
+			],
+			[
+				"set_confi",
+				"set_config_key"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"_",
+				"_config"
+			],
+			[
+				"affi",
+				"affiliate_tier_id"
+			],
+			[
+				"aff",
+				"affiliate_tier_id"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"query",
+				"query_string"
+			],
+			[
+				"period",
+				"period_time"
+			],
+			[
+				"per",
+				"period_time"
+			],
+			[
+				"out",
+				"output_object"
+			],
+			[
+				"debu",
+				"debug_text"
+			],
+			[
+				"debug_",
+				"debug_output"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"gly",
+				"glyphicons_halflings-white"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"end_da",
+				"end_datetime"
+			],
+			[
+				"end",
+				"end_datetime"
+			],
+			[
+				"pus",
+				"array_push"
+			],
+			[
+				"startd",
+				"start_date"
+			],
+			[
+				"rec",
+				"received_timestamp"
+			],
+			[
+				"date_",
+				"date_fmt"
+			],
+			[
+				"lang",
+				"lang_stub"
+			],
+			[
+				"stop",
+				"stop_stamp"
+			],
+			[
+				"star",
+				"start_stamp"
+			],
+			[
+				"buyer_",
+				"buyer_tier_hour_model"
+			],
+			[
+				"buyer",
+				"buyer_tier_id"
+			],
+			[
+				"tier",
+				"tier_hours_list"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-clip"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"backg",
+				"background-position"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "main.lua",
+			"settings":
+			{
+				"buffer_size": 228,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/states/game.lua",
+			"settings":
+			{
+				"buffer_size": 1162,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/utils.lua",
+			"settings":
+			{
+				"buffer_size": 2237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/animations/animation.lua",
+			"settings":
+			{
+				"buffer_size": 849,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/animations/animationframe.lua",
+			"settings":
+			{
+				"buffer_size": 436,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/animations/animationset.lua",
+			"settings":
+			{
+				"buffer_size": 1024,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/template.php",
+			"settings":
+			{
+				"buffer_size": 3964,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/level/background.lua",
+			"settings":
+			{
+				"buffer_size": 1765,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assetmanager.lua",
+			"settings":
+			{
+				"buffer_size": 11728,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/animations/animationstate.lua",
+			"settings":
+			{
+				"buffer_size": 7258,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/objects/gameobject.lua",
+			"settings":
+			{
+				"buffer_size": 2967,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/level/tile.lua",
+			"settings":
+			{
+				"buffer_size": 403,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nlocal AnimationSet = require(\"animations.animationset\")\nlocal AnimationFrame = require(\"animations.animationframe\")\nlocal Animation = require(\"animations.animation\")\n\nlocal Level = require(\"level.level\")\nlocal Background = require(\"level.background\")\nlocal TileGrid = require(\"level.tilegrid\")\nlocal Tile = require(\"level.tile\")\n\nlocal AssetManager = Class{function(self)\n    local imgData = love.image.newImageData(1, 1)\n    imgData:setPixel(0, 0, 0, 0, 0, 0)\n    self.blankImage = love.graphics.newImage(imgData)\n\n    self.assetRoot = \"assets/\"\n    self.imageFolder = \"img/\"\n    self.fontFolder = \"font/\"\n    self.animationFolder = \"animation/\"\n    self.gameObjectFolder = \"gameobject/\"\n    self.levelFolder = \"level/\"\n\n    self.images = {}\n    self.fonts = {}\n    self.animationSets = {}\nend}\n\nfunction AssetManager:createImagePath(file)\n    return (self.assetRoot .. self.imageFolder .. string.gsub(file, \"[\\\\.]\", \"/\") .. \".png\")\nend\n\nfunction AssetManager:getImage(key)\n    return self.images[key]\nend\n\nfunction AssetManager:getFont(key)\n    return self.fonts[key]\nend\n\nfunction AssetManager:getAnimationSet(key)\n    return self.animationSets[key]\nend\n\nfunction AssetManager:loadImage(file, key)\n    local key = key or file\n    if not self.images[key] then\n        self.images[key] = love.graphics.newImage(self:createImagePath(file))\n    end\n    return self.images[key]\nend\n\nfunction AssetManager:loadFont(file, size, key)\n    local key = key or (file .. tostring(size))\n    file = string.gsub(file, \"\\\\.\", \"/\")\n    if not self.fonts[key] then\n        self.fonts[key] = love.graphics.newFont(self.assetRoot .. self.fontFolder .. file .. \".ttf\", size)\n    end\n    return self.fonts[key]\nend\n\nfunction AssetManager:clearCache()\n    self:clearImages()\n    self:clearFonts()\n    self:clearAnimationSets()\nend\n\nfunction AssetManager:clearImages()\n    self.image = {}\nend\n\nfunction AssetManager:clearFonts()\n    self.fonts = {}\nend\n\nfunction AssetManager:clearAnimationSets()\n    self.animationSets = {}\nend\n\n--[[\n\n# Format Key\n\n## Variable Indicators\n\n<> - Required variable\n[] - Optional variable\n<[]> - Required if the following optional variable is specified\n[<>] - Required if the previous optional variable is specified\n\n## Variable Types\n\n$ - String\n# - Number\n^ - Boolean [\"true\" | \"false\" (non-case-sensitive), ~0 or 0]\n* - Table (see variable name for type - example: animationFrame2 implies an AnimationFrame table)\nNo Type - Must appear exactly as denoted (Example: [layer] indicates that the string \"layer\" at this point in the file is optional.)\n\n## Variable Formats\n\n<(type)(name)>\n[(type)(name)]\n<[(type)(name)]>\n\n]]--\n\n--[[\n\n* - AnimationFrame Format\n<#sourceX>, <#sourceY>, [#width], [#height], [#offsetX], [#offsetY]\n\n]]--\n\nfunction AssetManager:parseAnimationFrame(line, defaultFrameSize)\n    local defaultFrameSize = defaultFrameSize or vector(16, 16)\n    local t = csvStringToTable(line)\n    t[1] = tonumber(t[1])\n    t[2] = tonumber(t[2])\n    t[3] = tonumber(t[3]) or defaultFrameSize.x\n    defaultFrameSize.x = t[3]\n    t[4] = tonumber(t[4]) or defaultFrameSize.y\n    defaultFrameSize.y = t[4]\n    t[5] = tonumber(t[5]) or 0\n    t[6] = tonumber(t[6]) or 0\n    return AnimationFrame(vector(t[1], t[2]), vector(t[3], t[4]), vector(t[5], t[6]), tonumber(t[7]), tonumber(t[7]))\nend\n\nfunction AssetManager:parseAnimationData(line)\n    local t = csvStringToTable(line)\n    if #t < 1 then\n        return nil\n    end\n    return {key = t[1], animation = Animation({}, tonumber(t[2]) or nil, tonumber(t[3]) or nil, toboolean(t[4]) or nil)}\nend\n\n--[[\n\n# AnimationSet Format\n\n<$animationKey>\n<*animationFrame1>\n[*animationFrame2]\n[*animationFrame3]\n[*animationFrameN...]\n\n]]--\n\nfunction AssetManager:loadAnimationSet(file, key)\n    local key = key or file\n    file = string.gsub(file, \"\\\\.\", \"/\")\n    if self.animationSets[key] then\n        return self.animationSets[key]\n    end\n\n    local as = AnimationSet()\n\n    local defaultFrameSize = vector(16, 16)\n    local state = nil\n\n    for line in love.filesystem.lines(self.assetRoot .. self.animationFolder .. file .. \".dat\") do\n        if line:trim() == \"\" then\n            if state ~= nil then\n                as:addAnimation(state.key, state.animation)\n            end\n            state = nil\n        elseif state == nil then\n            state = self:parseAnimationData(line)\n        else\n            state.animation:addFrame(self:parseAnimationFrame(line, defaultFrameSize))\n        end\n    end\n\n    if state ~= nil then\n        as:addAnimation(state.key, state.animation)\n    end\n\n    self.animationSets[key] = as\n    return as\nend\n\n--[[\n\n# Tile Format\n\n<$imageFile>, <$animationSet>, [$initialAnimationKey], [^solidity],\n    [#overlayR], <[#overlayG]>, <[#overlayB]>, <[#overlayA]>\n\n]]--\n\nfunction AssetManager:parseTile(line, size)\n    local t = csvStringToTable(line)\n    if not t[4] then\n        t[4] = \"false\"\n    end\n    t[4] = toboolean(t[4])\n\n    local overlayIndex = 5\n    local olr = tonumber(t[overlayIndex]) or 255\n    local olg = tonumber(t[overlayIndex + 1]) or 255\n    local olb = tonumber(t[overlayIndex + 2]) or 255\n    local ola = tonumber(t[overlayIndex + 3]) or 255\n\n    local tile = Tile(self:getImage(t[1]),\n        self:getAnimationSet(t[2]),\n        size, t[3], t[4])\n    tile.overlay = {olr, olg, olb, ola}\n    return tile\nend\n\n--[[\n\n# Background Format\n\n<$imageFile>, <$animationSet>, [#sizeX], [#sizeY], [$initialAnimationKey],\n    [#slideX], [#slideY], [#parallax], [^flipX], [^flipY], [#offsetX], [#offsetY],\n    [#overlayR], <[#overlayG]>, <[#overlayB]>, <[#overlayA]>\n\n]]--\n\nfunction AssetManager:parseBackground(line)\n    print(line)\n    local t = csvStringToTable(line)\n    local image = self:getImage(t[1])\n    t[3] = tonumber(t[3]) or image:getWidth()\n    t[4] = tonumber(t[4]) or image:getHeight()\n    local size = vector(t[3], t[4])\n    t[6] = tonumber(t[6]) or 0\n    t[7] = tonumber(t[7]) or 0\n    local slide = vector(t[6], t[7])\n    local parallax = tonumber(t[8]) or 1\n    local flipX = toboolean(t[9]) or false\n    local flipY = toboolean(t[10]) or false\n    t[11] = tonumber(t[11]) or 0\n    t[12] = tonumber(t[12]) or 0\n    local offset = vector(t[11], t[12])\n\n    local overlayIndex = 13\n    local olr = tonumber(t[overlayIndex]) or 255\n    local olg = tonumber(t[overlayIndex + 1]) or 255\n    local olb = tonumber(t[overlayIndex + 2]) or 255\n    local ola = tonumber(t[overlayIndex + 3]) or 255\n\n    local bg = Background(image, self:getAnimationSet(t[2]), size, t[5], slide, parallax, flipX, flipY, offset)\n    bg.overlay = {olr, olg, olb, ola}\n    return bg\nend\n\n--[[\n\n# Gameobject Format\n\n<$gameObjectFile>, [#positionX], [#positionY]\n\n]]--\n\nfunction AssetManager:loadGameobject(line)\n    local t = csvStringToTable(line)\n    local go = rerequire(self.assetRoot .. self.gameObjectFolder .. t[1])\n    local x = tonumber(t[2]) or 0\n    local y = tonumber(t[3]) or 0\n    go.position = vector(x, y)\n    return go\nend\n\n--[[\n\n# Level Format\n\n## Notes\n\n- Blank lines seperate sections, so make note of them.\n- Sections may appear in any order. Layers are added in the order given.\n\n## Format\n\n<#width>, <#height>, <#tilesize>\n[*tileType1]\n[*tileType2]\n[*tileType3]\n[*tileTypeN...]\n\n[objects]\n<[*gameObject1]>\n[*gameObject2]\n[*gameObject3]\n[*gameObjectN...]\n\n[backgrounds]\n<[*background1]>\n[*background2]\n[*background3]\n[*backgroundN...]\n\n[foregrounds]\n<[*foreground1]>\n[*foreground2]\n[*foreground3]\n[*foregroundN...]\n\n[layer]\n<[#tileTypeId0by0]>, [#tileTypeId1by0], [#tileTypeId2by0], [#tileTypeIdN...by0]\n[#tileTypeId0by1], [#tileTypeId1by1], [#tileTypeId2by1], [#tileTypeIdN...by1]\n[#tileTypeId0by2], [#tileTypeId1by2], [#tileTypeId2by2], [#tileTypeIdN...by2]\n[#tileTypeId0byN...], [#tileTypeId1byN...], [#tileTypeId2byN...], [#tileTypeIdN...byN...]\n\n[imglayer], <[$imageFile]>\n[#r1], <[#g1]>, <[#b1]>, <[#a1]>, <[#tileTypeId1]>\n[#r2], <[#g2]>, <[#b2]>, <[#a2]>, <[#tileTypeId2]>\n[#r3], <[#g3]>, <[#b3]>, <[#a3]>, <[#tileTypeId3]>\n[#rN...], <[#gN...]>, <[#bN...]>, <[#aN...]>, <[#tileTypeIdN...]>\n\n]]--\n\nfunction AssetManager:loadLevel(file)\n    local state = nil\n\n    for line in love.filesystem.lines(self.assetRoot .. self.levelFolder .. file .. \".dat\") do\n        if line:trim() == \"\" then\n            if state.section == \"layer\" then\n                state.level:addLayer(state.tilegrid)\n            elseif state.section == \"imglayer\" then\n                state.level:addLayer(TileGrid(state.ilayerImage, state.pixelTypes, state.level.tilesize))\n                self.images[\"__level_layer_tmp\"] = nil\n            end\n            state.section = \"\"\n        else\n            local t = csvStringToTable(line)\n            if t == nil then\n\n            elseif state == nil then\n                state = {}\n                t[1] = tonumber(t[1])\n                t[2] = tonumber(t[2])\n                t[3] = tonumber(t[3])\n                state.level = Level(t[1], t[2], t[3], {})\n                state.section = \"tiletypes\"\n            else\n                if state.section == \"\" then\n                    state.section = t[1]\n                    if state.section == \"layer\" then\n                        state.y = 0\n                        state.tilegrid = TileGrid(state.level.size.x, state.level.size.y, state.level.tilesize, state.level.tileset)\n                    end\n                    if state.section == \"imglayer\" then\n                        state.pixelTypes = {}\n                        state.ilayerImage = love.image.newImageData(self:createImagePath(t[2]))\n                    end\n                else\n                    if state.section == \"tiletypes\" then\n                        local tile = self:parseTile(line, vector(state.level.tilesize, state.level.tilesize))\n                        state.level:addTileType(tile)\n                    elseif state.section == \"objects\" then\n                        state.level:addObject(self:loadGameobject(line))\n                    elseif state.section == \"backgrounds\" then\n                        state.level:addBackground(self:parseBackground(line))\n                    elseif state.section == \"foregrounds\" then\n                        state.level:addForeground(self:parseBackground(line))\n                    elseif state.section == \"layer\" then\n                        for i = 1, #t do\n                            local tid = tonumber(t[i]) or 0\n                            state.tilegrid:setTile(i - 1, state.y, tid)\n                        end\n                        state.y = state.y + 1\n                    elseif state.section == \"imglayer\" then\n                        local r = tonumber(t[1])\n                        local g = tonumber(t[2])\n                        local b = tonumber(t[3])\n                        local a = tonumber(t[4])\n                        local t = tonumber(t[5])\n                        local pixeln = string.format(\"%i,%i,%i,%i\",r,g,b,a)\n                        state.pixelTypes[pixeln] = t\n                    end\n                end\n            end\n        end\n    end\n\n    if state then\n        if state.section == \"layer\" then\n            state.level:addLayer(state.tilegrid)\n        elseif state.section == \"imglayer\" then\n            state.level:addLayer(TileGrid(state.ilayerImage, state.pixelTypes, state.level.tilesize))\n            self.images[\"__level_layer_tmp\"] = nil\n        end\n\n        return state.level\n    end\n\n    return nil\nend\n\nreturn AssetManager\n",
+			"settings":
+			{
+				"buffer_size": 11373,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/level/layer.lua",
+			"settings":
+			{
+				"buffer_size": 4655,
+				"line_ending": "Unix",
+				"name": "layer"
+			}
+		},
+		{
+			"file": "src/level/level.lua",
+			"settings":
+			{
+				"buffer_size": 2969,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "LOVE2D Project",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 386.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Daniel/Google Drive/projects/project-ddg/project-ddg.sublime-project",
+		"/C/Users/Daniel/Documents/project-ddg/project-ddg.sublime-project",
+		"/C/Users/Daniel/Downloads/report.csv",
+		"/C/Users/Daniel/Downloads/affiliate_profit",
+		"/C/Users/Daniel/Documents/irssi/irssi.cmd",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/system/libraries/Table.php",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/widgets/report_filter.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/widgets/widget_skel.php",
+		"/C/Users/Daniel/Google Drive/projects/thegame/hump/camera.lua",
+		"/C/Users/Daniel/Google Drive/projects/warpedge/assets/assetmanager.lua",
+		"/C/Users/Daniel/Google Drive/projects/thegame/objects/level.lua",
+		"/C/Users/Daniel/Google Drive/projects/thegame/level/level.lua",
+		"/C/Users/Daniel/Google Drive/projects/thegame/gui/guiobject.lua",
+		"/C/Users/Daniel/Google Drive/projects/warpedge/gui/menus/mainmenu.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/escapeprevention/scenes/game.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/escapeprevention/objects/gameobject.lua",
+		"/C/Users/Daniel/Google Drive/projects/warpedge/gui/guiobject.lua",
+		"/C/Users/Daniel/Google Drive/projects/love2d/escapeprevention/scenes/mainmenu.lua",
+		"/C/Users/Daniel/Google Drive/projects/thegame/gui/menus/mainmenu.lua",
+		"/C/Users/Daniel/Google Drive/projects/warpedge/utils.lua",
+		"/C/Users/Daniel/Google Drive/projects/warpedge/main.lua",
+		"/C/Users/Daniel/Google Drive/projects/thegame/ld26.sublime-project",
+		"/C/Users/Daniel/Google Drive/projects/thegame/gui/menus/desktop.ini",
+		"/C/Users/Daniel/Google Drive/projects/love2d/escapeprevention/main.lua",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/users/form.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/install.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/controllers/esign.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/models/application_esignature_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/helpers/MY_email_helper.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/email/password_reset_key.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/recover.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/models/user_password_reset_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/system/helpers/email_helper.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/recover_confirm.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/recover.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/system/database/DB.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/system/database/DB_active_rec.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/core/MY_Model.php",
+		"/C/Users/Daniel/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/index.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/models/user_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/email/password_reset.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/system/helpers/url_helper.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/index.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/testfield/hexbin.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/testfield/explode1.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/helpers/common_helper.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/config/development/config.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/config/config.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/controllers/cron/updates.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/controllers/service_daemon.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/controllers/old.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/models/application_data_key_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/models/application_data_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/models/admin_affiliates_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/models/activity_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/models/reports/affiliate_profit_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/users/edit.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/admin/affiliate_json_sum_stats.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/widgets/buyer/account_settings.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/models/reports/applications_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/template.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/helpers/MY_html_helper.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/admin/affiliate.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/helpers/report_helper.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/libraries/MY_Table.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/system/helpers/form_helper.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/libraries/Form.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/admin/affiliate.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/users/index.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/widgets/buyer/account_settings.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/core/MY_Controller.php",
+		"/C/Users/Daniel/Documents/Notes/codeigniter_study_notes",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/recover_form.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/wiki/Collaborative Development.md",
+		"/C/Users/Daniel/Documents/xampp/htdocs/wiki/Home.md",
+		"/C/Users/Daniel/Documents/xampp/htdocs/wiki/Default Welcome Page.md",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/widgets/widget_skel.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/users/edit.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/form.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/views/div_alert.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/assets/js/bootstrap-ajaxform.js",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/users/index_json_users.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/users/index.php",
+		"/C/Users/Daniel/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/example-widgets.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/template_pjax.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/template_ajax.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/models/report_model_old.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/widgets/admin/reports_display.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/models/report_affiliates.php",
+		"/C/Users/Daniel/Documents/Notes/# Report Model Brainstorm",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/models/report_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/admin/testreport2.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/admin/testreport3.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/widgets/admin/reports_filter.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/widgets/admin/reports_display.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/admin/reports.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/models/report_admin_affiliates_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/models/report_application_views.php",
+		"/C/Users/Daniel/Downloads/application_submission_errors.sql",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/config/.siteroot",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/admin/affiliate2.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/admin/report.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/admin/reports.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/widgets/buyer/account_hours.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/widgets/buyer/account_hours.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/widgets/admin/reports_filter.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/widgets/_application_summary.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/diff.txt",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/diff2.txt",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/helpers/debug_helper.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/system/database/DB_driver.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/controllers/admin/buyer.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/widgets/admin/stats_datetime.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/widgets/admin/stats_datetime.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/widgets/admin/stats_chart.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/system/helpers/array_helper.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/widgets/admin/stats_chart.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/helpers/integration_response_helper.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/system/core/Model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/models/affiliate_model.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/assets/css/bootstrapSwitch.css",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/.htaccess",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/widgets/buyer/account_status.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/testfield/regex_vs_function.php",
+		"/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/assets/gravity/css/style.css"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Users\\Daniel\\Documents\\project-ddg",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\\",
+			"Level:",
+			"Layer",
+			"Level",
+			"lastLayerId",
+			"g",
+			"lastObjectId",
+			"idToCoords",
+			"tilesize",
+			"loadImage",
+			"tilegrid",
+			"TileGrid",
+			"constru",
+			"getTileIdFromCoords",
+			"Level:",
+			"Layer:",
+			"nextObjectId",
+			"print",
+			"vaabbp",
+			"vaabb",
+			".x",
+			".y",
+			"(self.velocity.x * dt)",
+			".x",
+			"v.",
+			"v",
+			"sideMovement",
+			"selfmax",
+			"selfpos",
+			".y",
+			"y",
+			"bottom",
+			"y",
+			"bottom",
+			"x",
+			"template",
+			"0",
+			"template",
+			"$model_name",
+			"todo",
+			"POST",
+			"tab",
+			"title",
+			"widget",
+			"objects",
+			"GameObject",
+			"object",
+			"print",
+			"asset",
+			"GameObject",
+			"Gameobject",
+			"conf",
+			"alert",
+			"my_model",
+			"My_Report",
+			"date",
+			"datye",
+			"between",
+			"appe_model",
+			"application_esign",
+			"application",
+			"hex",
+			"HEX",
+			"SELECT.",
+			"SELECT",
+			"function get",
+			"get",
+			"get_primary",
+			"get",
+			"update",
+			"BETWEEN",
+			"filter",
+			"filtetr",
+			"table",
+			"group",
+			"value",
+			"dropdown",
+			"label",
+			"username",
+			"update",
+			"$this->input->post('username')",
+			"valid",
+			"nopadd",
+			"data-",
+			"prefix",
+			"function _filter_atts",
+			"submit",
+			"return",
+			"get()",
+			"error",
+			"response",
+			".",
+			"true",
+			"messAGE",
+			"email",
+			"message",
+			"modal",
+			"Edit",
+			"edit",
+			"case '",
+			"'%Y",
+			"report",
+			"sum_stats",
+			"echo",
+			"sum_stats",
+			"$",
+			"protected",
+			");\n",
+			"where",
+			")",
+			"(",
+			"echo",
+			"&",
+			" _",
+			"from(",
+			"datefmt",
+			"hour",
+			"annual",
+			"H:i:",
+			"5",
+			"stop",
+			" AS ",
+			"AS",
+			"implode",
+			"'",
+			"\n",
+			"$selectors",
+			"$selec"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"layer",
+			"Layer",
+			"coordsToId",
+			"$data['model']",
+			"Gameobject",
+			"end",
+			"'",
+			"filter",
+			"day",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "main.lua",
+					"settings":
+					{
+						"buffer_size": 228,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								228,
+								228
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/states/game.lua",
+					"settings":
+					{
+						"buffer_size": 1162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								754,
+								754
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/utils.lua",
+					"settings":
+					{
+						"buffer_size": 2237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 39.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/animations/animation.lua",
+					"settings":
+					{
+						"buffer_size": 849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/animations/animationframe.lua",
+					"settings":
+					{
+						"buffer_size": 436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/animations/animationset.lua",
+					"settings":
+					{
+						"buffer_size": 1024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								143,
+								143
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/Daniel/Documents/xampp/htdocs/nl-dev-platform/html/application/modules/gravity/views/template.php",
+					"settings":
+					{
+						"buffer_size": 3964,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1690,
+								1690
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/level/background.lua",
+					"settings":
+					{
+						"buffer_size": 1765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								229,
+								229
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 8,
+					"file": "src/assetmanager.lua",
+					"settings":
+					{
+						"buffer_size": 11728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2188,
+								2188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 337.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "src/animations/animationstate.lua",
+					"settings":
+					{
+						"buffer_size": 7258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								720,
+								720
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "src/objects/gameobject.lua",
+					"settings":
+					{
+						"buffer_size": 2967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1378,
+								1378
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 467.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "src/level/tile.lua",
+					"settings":
+					{
+						"buffer_size": 403,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								390,
+								390
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"settings":
+					{
+						"buffer_size": 11373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "src/level/layer.lua",
+					"settings":
+					{
+						"buffer_size": 4655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4628,
+								4628
+							]
+						],
+						"settings":
+						{
+							"auto_name": "layer",
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 26.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "src/level/level.lua",
+					"settings":
+					{
+						"buffer_size": 2969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2950,
+								2899
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Lua/Lua.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1331.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 173.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 140.0,
+	"status_bar_visible": false
+}

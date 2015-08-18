@@ -1,0 +1,19 @@
+64, 64, 16
+tiles, tiles, mossstone, true
+tiles, tiles, mossstonefloor, false
+
+objects
+enemy.ghost, 60, 60
+enemy.ghost, 60, 80
+enemy.ghost, 60, 100
+enemy.ghost, 60, 120
+
+backgrounds
+background.grass1, none, none, none, none, 0, 0, 1, false, false, none, none, 255, 255, 255, 255
+
+# foregrounds
+# background.comets1, none, none, none, none, 200, 100, 1, false, false, none, none, 255, 255, 255, 100
+
+imglayer, level.test
+0,0,0,255,2
+255,255,255,255,1
